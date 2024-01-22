@@ -232,13 +232,4 @@ header {
         flex-direction: column;
     }
   }
-  .video-container {
-    width: 420px; 
-    height: 345px; 
-    margin-right: 20px; 
-  }
-  
-  iframe {
-    width: 60%;
-    height: 100%;
-  }
+ 
